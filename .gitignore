@@ -1,0 +1,24 @@
+# Temporary & Log files
+*.log
+*.LOG
+*.tmp
+*.bak
+*.BAK
+stderr.txt
+stdout.txt
+tcc-win64.zip
+
+# Temporary build & project artifacts
+Projects/*.EXE
+Projects/*.exe
+Projects/*.obj
+Projects/*.OBJ
+Projects/*.BAK
+Projects/*.LOG
+Projects/*.CONF
+Projects/USER_SCREEN.BAT
+Projects/last_session.txt
+
+# OS metadata
+Thumbs.db
+.DS_Store

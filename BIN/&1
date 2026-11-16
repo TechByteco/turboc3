@@ -1,0 +1,13 @@
+DPMIINST   Version 1.0  Copyright (c) 1989, 1991 Borland International
+Syntax: DPMIINST [options]
+     -h,-?        Show this help screen
+     -k<path>     Name of kernel file
+     -g           Just check the database
+     -a           Analyze only, don't try to configure
+     -v           Verbose mode
+     -x           Don't try to update
+     -t           Report switch time
+     -c           Don't delete checkpoint file
+     -s           Just show the settings for this machine
+     -f<string>   Force characteristic string to DPMI16BI
+                  (format is  ee/dd/ss/ffff/oooo )
